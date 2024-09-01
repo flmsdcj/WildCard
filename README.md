@@ -10,19 +10,19 @@
 
 ![image](https://github.com/user-attachments/assets/2650edfe-5fbd-4b85-80fe-714bb141902c)
 
-4. 在弹出页面点击【开通】按钮。
+3. 在弹出页面点击【开通】按钮。
 
 ![image](https://github.com/user-attachments/assets/92cb7dcd-0fbb-4a67-b7db-717de5c26462)
 
-6. 点击【去开通】注册按钮。
+4. 点击【去开通】注册按钮。
  
 ![image](https://github.com/user-attachments/assets/26ff032b-3a11-420f-a6ad-d51888f2bec6)
 
-8. 输入手机号码进行一键注册。
+5. 输入手机号码进行一键注册。
 
 ![image](https://github.com/user-attachments/assets/4ae6a459-290b-4bd7-8099-c73bb42be307)
 
-10. 注册成功后,点击"我的卡片"即可查看虚拟卡信息。充值后即可使用。
+6. 注册成功后,点击"我的卡片"即可查看虚拟卡信息。充值后即可使用。
 
 ![image](https://github.com/user-attachments/assets/d3656d26-4c25-4292-9c3d-96ed74337833)
 
@@ -49,6 +49,6 @@
 - 余额可实时提现,秒到账
 ![image](https://github.com/user-attachments/assets/056b7834-07a1-436f-93e9-6ecaa3afd12e)
 
-按照以上步骤操作,就能轻松注册一张WildCard虚拟信用卡了。赶快去充值使用各种海外服务吧!
+按照以上步骤操作,就能轻松注册一张[WildCard虚拟信用卡](https://bit.ly/WildCardo)了。赶快去充值使用各种海外服务吧! 
 
-https://bit.ly/WildCardo
+
