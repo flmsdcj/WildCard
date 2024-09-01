@@ -7,23 +7,23 @@
 1. 打开 WildCard 官网:https://bit.ly/WildCardo
 
 2. 点击页面右上角的【注册】按钮,或首页中间的【立即使用】按钮。
-3. 
+
 ![image](https://github.com/user-attachments/assets/2650edfe-5fbd-4b85-80fe-714bb141902c)
 
 4. 在弹出页面点击【开通】按钮。
-5. 
+
 ![image](https://github.com/user-attachments/assets/92cb7dcd-0fbb-4a67-b7db-717de5c26462)
 
 6. 点击【去开通】注册按钮。
-7. 
+ 
 ![image](https://github.com/user-attachments/assets/26ff032b-3a11-420f-a6ad-d51888f2bec6)
 
 8. 输入手机号码进行一键注册。
-9. 
+
 ![image](https://github.com/user-attachments/assets/4ae6a459-290b-4bd7-8099-c73bb42be307)
 
 10. 注册成功后,点击"我的卡片"即可查看虚拟卡信息。充值后即可使用。
-11. 
+
 ![image](https://github.com/user-attachments/assets/d3656d26-4c25-4292-9c3d-96ed74337833)
 
 ## 注意事项 
